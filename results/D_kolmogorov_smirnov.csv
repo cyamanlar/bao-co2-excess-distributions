@@ -1,0 +1,6 @@
+distribution,Delta,x_at_max,crit_table,decision_table,crit_estimated_params,decision_estimated_params
+Normal,0.1853,4.5019,0.0761,reject H0,0.0499,reject H0
+Lognormal,0.0757,1.6575,0.0761,accept H0,0.0499,reject H0
+Gamma,0.0489,4.5019,0.0761,accept H0,0.0518,accept H0
+Weibull,0.0375,4.5019,0.0761,accept H0,0.0651,accept H0
+Gumbel,0.1633,0.0017,0.0761,reject H0,0.0529,reject H0

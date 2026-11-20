@@ -1,0 +1,7 @@
+distribution,param1,value1,param2,value2,mean,variance,skewness,P(X<0)
+Normal,mu,5.3629,sigma,5.8681,5.3629,34.4345,0.0,0.1804
+Lognormal,mu_y,1.0262,sigma_y,1.3669,7.1025,276.3547,19.844,0.0
+Gamma,alpha,0.9061,beta,5.9183,5.3629,31.7392,2.101,0.0
+Weibull,alpha,0.9069,beta,5.1179,5.3629,35.0755,2.318,0.0
+Gumbel,xi,2.7219,beta,4.5753,5.3629,34.4345,1.1395,0.1632
+Sample,,,,,5.3629,34.4345,2.2979,0.0

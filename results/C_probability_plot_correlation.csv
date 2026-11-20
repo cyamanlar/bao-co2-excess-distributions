@@ -1,0 +1,6 @@
+distribution,r_QQ,r_PP,max_theoretical_quantile
+Normal,0.8805,0.9479,22.3667
+Lognormal,0.9155,0.9939,146.51
+Gamma,0.9958,0.9983,35.7035
+Weibull,0.9968,0.9987,38.7932
+Gumbel,0.9662,0.975,31.4353

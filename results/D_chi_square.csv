@@ -1,0 +1,6 @@
+distribution,chi2,df,chi2_crit,p_value,decision
+Normal,200.3417,7,14.0671,0.0,reject H0
+Lognormal,20.4671,7,14.0671,0.0046,reject H0
+Gamma,7.8025,7,14.0671,0.3503,accept H0
+Weibull,14.6991,7,14.0671,0.0401,reject H0
+Gumbel,103.2257,7,14.0671,0.0,reject H0
